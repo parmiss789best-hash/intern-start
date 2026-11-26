@@ -1,0 +1,5 @@
+2026-11-26 10:01 ERROR ali Connection failed
+2026-11-26 10:02 WARNING sara Disk almost full
+2026-11-26 10:03 ERROR ali Database failed
+2026-11-26 10:05 ERROR reza Service unavailable
+
